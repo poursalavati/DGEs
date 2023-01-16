@@ -1,4 +1,4 @@
-# DGEs
+# Differential gene expression (DGE) analysis
 ### DGEs of RNA-seq data
 </br>
 
