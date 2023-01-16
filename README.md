@@ -15,6 +15,6 @@ _________________________________________________
 | --------- | -------------- |
 Experiments with replicate | Recommended and more accurate 
 Experiments without replicate | Requires domain expert's information
-<br></br>
+<br>
 ### Poursalavati, 2021
 citation:
