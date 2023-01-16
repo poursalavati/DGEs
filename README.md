@@ -14,7 +14,7 @@ _________________________________________________
 | ⭐️MODE   |📚Description |
 | --------- | -------------- |
 Experiments with replicate | Recommended and more accurate 
-Experiments without replicate | Requires domain expert's information
-<br>
+Experiments without replicate | Requires domain expert's information  
+
 ### Poursalavati, 2021
 citation:
