@@ -1,24 +1,20 @@
 # DGEs
-DGEs with RNA-seq data
+### DGEs of RNA-seq data
+</br>
 
-The main requirements are shown in the picture.
+The main requirements are shown in the image.
+</br>The matrix required for this test is located in the test-data folder.
 
-The matrix required for this test is located in the test-data folder.
-
-![image](https://user-images.githubusercontent.com/35867448/212577009-8056c180-361a-4863-b0c9-a19f9c1002c7.png)
+<img src="https://user-images.githubusercontent.com/35867448/212577009-8056c180-361a-4863-b0c9-a19f9c1002c7.png"  width="70%" height="70%">
 
 _________________________________________________
-##Two approaches are presented separately. 
-My most starred repos:
-| ⭐️Stars   | 📦Repo    | 📚Description |
-| --------- | ----------- | -------------- |
-{{ loop 3_MOST_STARRED_REPOS }}
-| {{ REPO_STARS }} | [{{ REPO_FULL_NAME }}]({{ REPO_URL }}) | {{ REPO_DESCRIPTION }} |
-{{ end 3_MOST_STARRED_REPOS }}
+### Two approaches are presented separately: 
+</br>
 
-Experiments with replicate (recommended and more accurate) 
-
-Experiments without replicate (requires domain expert's information)
-
-Poursalavati,2021
+| ⭐️MODE   |📚Description |
+| --------- | -------------- |
+Experiments with replicate | Recommended and more accurate 
+Experiments without replicate | Requires domain expert's information
+<br></br>
+### Poursalavati, 2021
 citation:
