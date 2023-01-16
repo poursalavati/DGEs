@@ -321,6 +321,6 @@
 
     write.table(summary(dt_qlf), file='DGE_Summ_qlf.txt', sep = "\t", row.names = T,quote = FALSE)
 
-### save workspace and history for each experiment
+### Save workspace and history for each experiment
 
 ################################################
